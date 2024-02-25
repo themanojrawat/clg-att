@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ae35b43.css",
+    "main.js": "/static/js/main.6cf01d50.js",
+    "static/media/final-bg.png": "/static/media/final-bg.1eb24f3a2bb1a7647835.png",
+    "static/media/Professor.jpg": "/static/media/Professor.3de6a59e50cfa0ad97b4.jpg",
+    "static/media/Student.jpg": "/static/media/Student.d00321f8fe416275dd8f.jpg",
+    "static/media/logo.png": "/static/media/logo.60a1c2546c748056e32a.png",
+    "index.html": "/index.html",
+    "main.5ae35b43.css.map": "/static/css/main.5ae35b43.css.map",
+    "main.6cf01d50.js.map": "/static/js/main.6cf01d50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ae35b43.css",
+    "static/js/main.6cf01d50.js"
+  ]
+}
